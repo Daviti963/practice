@@ -10,6 +10,7 @@ export default function App() {
   return (
     <main className={styles.main}>
       <h1>he</h1>
+      <h2>hello</h2>
     </main>
   );
 }
